@@ -1,6 +1,6 @@
 # Hi there! I'm Agustin 👋
 
-I am a software enthusiast and **42 Barcelona** alumni. With a strong foundation in low-level programming and systems, I am now pivoting towards **AI Engineering** and **Data Solutions**, focusing on performance and scalability.
+I am a software enthusiast and **42 Barcelona** alumni. With a strong foundation in low-level programming and systems, I am now pivoting towards **AI Engineering** and **Data Solutions**, focusing on performance, scalability, and geospatial intelligence.
 
 ### 🛠️ Tech Stack
 
@@ -17,10 +17,16 @@ I am a software enthusiast and **42 Barcelona** alumni. With a strong foundation
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 Focus & Learning
+### 🚀 Featured Project: Vento Marketplace
+*A C2C Microservices-based platform focused on sustainability and geolocation.*
+
+- **My Contribution:** Database Architecture Design & Backend development for the Ads/Catalog microservice.
+- **Key Tech:** Optimized spatial queries with **PostGIS**, implemented high-performance REST APIs with **Fastify**, and orchestrated the environment using **Docker**.
+- **Impact:** Built a scalable, decoupled system capable of handling real-time proximity searches.
+
+### 📚 Currently Learning
 - **AI Engineering:** Building LLM-powered applications with **LangChain**.
-- **Spatial Data:** Advanced queries and geometry optimization with **PostGIS**.
-- **Data Pipelines:** Transforming raw data into structured insights.
+- **Data Pipelines:** Transforming raw data into structured insights for AI consumption.
 
 ---
 
